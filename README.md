@@ -1,25 +1,59 @@
-# 📊 Website Analytics Dashboard (Power BI)
+# 📊 Website Performance & User Conversion Analysis Dashboard
 
-## 🔹 Project Overview
-
-This project presents a Power BI dashboard analyzing website performance, user behavior, and conversion trends.
-
-The dashboard provides insights into:
-
-* User traffic patterns over time
-* Conversion performance across channels
-* Device-wise user distribution
-* Page engagement trends
+## 🧭 Overview
+This project presents an interactive **Power BI dashboard** designed to analyze website performance, user behavior, and conversion efficiency.  
+It focuses on transforming raw data into **actionable business insights** for decision-making.
 
 ---
 
-## 📌 Key Metrics
+## 🎯 Business Objective
+- Monitor website traffic and engagement trends  
+- Identify high-performing acquisition channels  
+- Analyze user behavior across devices  
+- Detect drop-offs in the conversion funnel  
+- Support data-driven optimization strategies  
 
-* Total Users: 77K
-* Total Sessions: 96K
-* Total Conversions: 6.5K
-* Conversion Rate: 6.8%
-* Bounce Rate: 48.2%
+---
+
+## 🧱 Data & Approach
+- Dataset includes: Users, Sessions, Conversions, Traffic Source, Device, Date, Bounce Rate  
+- Data cleaned and transformed using **Power Query**  
+- Key metrics created using **DAX measures**  
+- Time period analyzed: **Jan – Mar 2025**  
+  > Note: March data appears partially recorded, which may affect trend analysis  
+
+---
+
+## 📈 Dashboard Features
+- **KPI Cards:** Users, Sessions, Conversions, Conversion Rate, Avg. Bounce Rate  
+- **Traffic Analysis:** Monthly trend of user activity  
+- **Conversion Performance:** Conversions by traffic source  
+- **Device Analysis:** User distribution across mobile, desktop, and tablet  
+- **User Journey Funnel:** Sessions → Users → Conversions  
+- **Insights Panel:** Key business observations  
+
+---
+
+## 🔍 Key Insights
+- Mobile users contribute the highest traffic (~30K users), indicating strong mobile engagement  
+- Social media generates the highest conversions, showing effective campaign performance  
+- Only ~6.8% of users convert, highlighting significant drop-offs in the conversion funnel  
+- Traffic decline in March suggests incomplete data or reduced campaign activity  
+
+---
+
+## 💡 Business Recommendations
+- Improve mobile user experience to reduce bounce rate  
+- Optimize landing pages to increase conversion rate  
+- Focus on high-performing channels like social media  
+- Investigate data inconsistencies for accurate reporting  
+
+---
+
+## 🛠️ Tools & Technologies
+- Power BI  
+- Power Query  
+- DAX  
 
 ---
 
@@ -29,20 +63,9 @@ The dashboard provides insights into:
 
 ---
 
-## 🔍 Key Insights
 
-* Mobile users contribute the highest traffic (~30K users)
-* Social media is the leading source of conversions
-* Significant drop in traffic observed in March
-* Conversion rate (~6.8%) indicates scope for optimization
-
----
-
-## 🛠️ Tools Used
-
-* Power BI
-* Excel / CSV Dataset
-* Data Visualization Techniques
+## 🚀 Key Takeaway
+This project demonstrates how a dashboard can go beyond visualization to deliver **meaningful insights that drive business decisions and performance optimization**.
 
 ---
 
@@ -64,5 +87,5 @@ The dashboard provides insights into:
 
 ## 📌 Author
 
-Harshitha Adicherla
+👤 **Harshitha Adicherla** 
 
